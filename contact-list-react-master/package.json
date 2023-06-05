@@ -2,7 +2,7 @@
   "name": "contact-list",
   "version": "0.2.0",
   "private": true,
-  "homepage": "https://ShivangAgr.github.io/contact-list-react",
+  "homepage": "https://sarjit789.github.io/contact-list-react",
   "dependencies": {
     "gh-pages": "^2.1.1",
     "react": "^16.11.0",
